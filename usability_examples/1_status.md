@@ -13,3 +13,8 @@ Miele Dishwasher lacks visibility of system status. It is not clear when it is r
 Elevator in the DR building does not tell me which floor it is on. It doesn't tell me if it's going up or down. Indeed, it is not even telling me which one is responding to me pressing the button!!! (I can tell by the sound that it is the right one.)
 
 ![](images/bjørn-elevator-status.jpg) 
+
+### Helena
+ITU's light switches does not provide visibility of system status. By looking solely at the light control, we can not immediately interpret whether the light is on or off. For comparison, Nedis SmartLife provide decent visibility of system status, as you can clearly tell the difference between on / off. 
+
+![](images/helena-light-control.jpg)
